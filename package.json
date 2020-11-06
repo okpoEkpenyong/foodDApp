@@ -1,0 +1,21 @@
+{
+  "name": "foodXchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.5.0",
+    "@truffle/hdwallet-provider": "1.1.1",
+    "bootstrap": "4.4.1",
+    "web3": "1.2.7"
+  }
+}

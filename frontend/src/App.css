@@ -1,0 +1,13 @@
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+  color: aqua;
+  max-width: 20px;
+}
+
+.tables {
+  border: 1px solid black;
+  width: 0%;
+}
