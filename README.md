@@ -19,6 +19,6 @@ cd frontend
 npm start
 
 ```
-[Pitch Deck](https://drive.google.com/file/d/1_8gqy7MX55VGmSirlrDGTzKaGOSzxvCI/view?usp=sharing).
+[Pitch Deck](https://drive.google.com/file/d/1mdMae-RuUcYclXdQytFl3RcwaRoZP40e/view?usp=sharing).
 [Demo Video](https://drive.google.com/file/d/1n6g872MGjiRk4YOsZVpoYGsU6TWQluZA/view?usp=sharing)
 
